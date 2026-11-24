@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Fire Scene Enhancer: real-time image enhancement for extreme fire scenes"
+type: software
+authors:
+  - family-names: "Tiong"
+    given-names: "Edwin Kwong Meng"
+license: MIT
+abstract: >-
+  C++17 / OpenCV implementation of the master's thesis "Real-Time Image
+  Enhancement System for Extreme Fire Scenes" (National Cheng Kung University,
+  2026). CPU-only pipeline with fire and smoke masks, dark channel dehazing,
+  adaptive gamma and mask-aware CLAHE.
+keywords:
+  - image enhancement
+  - fire scene
+  - dehazing
+  - CLAHE
+  - real-time
+  - OpenCV

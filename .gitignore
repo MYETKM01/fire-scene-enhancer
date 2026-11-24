@@ -1,0 +1,35 @@
+# build output
+build/
+build-*/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# media and data (do not commit footage or results)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.png
+*.jpg
+*.jpeg
+!docs/*.png
+!docs/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
