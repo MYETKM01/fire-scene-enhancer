@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 title: "Fire Scene Enhancer: real-time image enhancement for extreme fire scenes"
 type: software
 authors:
-  - family-names: "Tiong"
-    given-names: "Edwin Kwong Meng"
+  - family-names: "Edwin Tiong"
+    given-names: "Kwong Meng"
 license: MIT
 abstract: >-
   C++17 / OpenCV implementation of the master's thesis "Real-Time Image
